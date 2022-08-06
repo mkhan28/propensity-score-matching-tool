@@ -4,4 +4,5 @@ An R Shiny application for Propensity Score Matching that allows you to easily c
 Contact information for program author:
 
 Md Ayubur Rahman Khan
+
 Email: ayubur.khan1990@gmail.com
